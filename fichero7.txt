@@ -1,1 +1,3 @@
 ﻿el fichero7 contiene texto
+***un cambio***
+***otro cambio***

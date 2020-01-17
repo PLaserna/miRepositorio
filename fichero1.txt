@@ -1,2 +1,1 @@
 ﻿mi primer fichero gestionado
-meto una linea mas.
